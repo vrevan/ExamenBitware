@@ -11,7 +11,7 @@ _3. El archivo Almacenes.sql corresponde al ultimo ejercicio, crea la base y tab
 
 _4. El archivo cosultas contiene las querys solcitadas en el tercer ejercico._
 
-_5. Por cuestiones personales de urgencia no tuve oportunidad de realizar los ejercios hasta el día 18/05/2021, remitiendolo el mismo día por la tarde.
+_5. Por cuestiones personales de urgencia no tuve oportunidad de realizar los ejercios hasta el día 18/05/2021, remitiendolo el mismo día por la tarde._
 
 
 ## Construido con 🛠️
@@ -26,7 +26,7 @@ _5. Por cuestiones personales de urgencia no tuve oportunidad de realizar los ej
 ## Autor ✒️
 
 
-* **Victor Camacho**  *
+* **Victor Camacho**  
 
 
 ## Muchas gracias 🤓.

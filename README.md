@@ -21,7 +21,7 @@ _5. Por cuestiones personales de urgencia no tuve oportunidad de realizar los ej
 * [Spring](https://spring.io/) - Framework Utilizado
 * [MongoDB](https://www.mongodb.com/es) - Framework Utilizado
 * [Postman](https://www.postman.com/downloads/) - Entorno de desarrollo de APIs para servicos REST
-
+* [PostgreSQL](https://www.postgresql.org/) - Base de datos para ultimo ejercicio.
 
 ## Autor ✒️
 

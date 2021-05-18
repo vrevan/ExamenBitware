@@ -22,7 +22,7 @@ _5. Por cuestiones personales de urgencia no tuve oportunidad de realizar los ej
 ## Autor ✒️
 
 
-* **Victor Camacho** - *
+* **Victor Camacho**  *
 
 
 ## Muchas gracias 🤓.
